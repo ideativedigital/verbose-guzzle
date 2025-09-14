@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file original="" product-name="Ideative.VerboseGuzzle" source-language="en" datatype="plaintext">
+        <body>
+            <trans-unit id="messageLength" xml:space="preserve">
+				<source>Message length: Number of characters to display from an error message. Extra characters are truncated.</source>
+			</trans-unit>
+        </body>
+    </file>
+</xliff>

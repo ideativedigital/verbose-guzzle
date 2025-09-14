@@ -1,0 +1,2 @@
+# cat=basic/enable/a; type=int; label=LLL:EXT:verbose_guzzle/Resources/Private/Language/Configuration.xlf:messageLength
+messageLength = 1000
